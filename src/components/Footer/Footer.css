@@ -1,0 +1,36 @@
+.copyright{
+    color: black;
+    background-color: lightblue;
+   text-align: center;
+
+}
+.icons{
+    color: black;
+    background-color: lightblue;
+    font-size: 25px;
+    text-align:center;
+}
+#icon1{
+    color: blue;
+    text-decoration:none;
+    padding-left:8px;
+    }
+    #icon2{
+        color: blue;
+
+    text-decoration:none;
+    padding-left:8px;
+    }
+    #icon3{
+        color: blue;
+
+    text-decoration: none;
+    padding-left:8px;
+    }
+    #icon4{
+        color: blue;
+
+    text-decoration:none;
+    padding-left:8px;
+    }
+    
